@@ -26,7 +26,3 @@ These prompts were made through DeepSeek. The goal of this is to furthur practic
 ## 📊 Pandas + NumPy + Matplotlib
 7. **Intermediate: Student Gradebook System** ❌ 
 - Create a Gradebook class that uses Pandas DataFrames to manage student data. The class should: Initialize with columns: student_id, name, math, science, english. Have methods to: Add new students, Update grades for specific subjects, Calculate each student's average grade, Add a column for grade status (Pass/Fail based on average >= 60), Display students who are failing, Use NumPy to calculate class statistics (mean, median, std dev)
-
-## 🧩 LeetCode
-9. **[Two Sums](https://leetcode.com/problems/two-sum/description/)** ❌
-- Using Python and Kotlin solve the problem
