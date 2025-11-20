@@ -18,5 +18,6 @@ This repository focuses on coding practices for the following: Python, Kotlin, M
 |   ├── 📂 10-26 : 11-2
 |   ├── 📂 11-3 : 11-10
 |   ├── 📂 11-11 : 11-20
+|   ├── 📂 11-21 : 11-28
 |   └── 📂 AI Dumpster
 </pre>
