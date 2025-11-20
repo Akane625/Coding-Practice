@@ -12,7 +12,7 @@ These prompts were made through DeepSeek. The goal of this is to furthur practic
 | ❌ | Not Completed | Not able to create a code within the deadline |
 
 ## 🐍 Python
-1. **Intermediate: Bank Account System** ❌
+1. **Intermediate: Bank Account System** ✅
 - Create a BankAccount class with private attributes for account number, holder name, and balance. Implement methods for: deposit(amount), withdraw(amount) (should prevent overdrafts), get_balance() (returns formatted balance), transfer(amount, target_account). Add a class variable to track the total number of accounts created. Create multiple accounts and demonstrate deposits, withdrawals, and transfers between accounts.
 
 ## 🟣 Kotlin
