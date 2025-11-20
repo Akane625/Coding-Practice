@@ -6,10 +6,10 @@ This repository focuses on coding practices for the following: Python, Kotlin, M
 | No. | Langauge | Skill Level | Mode of Learning | Last Updated |
 |-----|----------|-------------|------------------|--------------|
 | 1 | Python | Intermediate | School + Self-Learn | 11/08/25 |
-| 2 | Kotlin | Intermediate | Self-Learn | 11/08/25 |
+| 2 | Kotlin | Low Intermediate | Self-Learn | 11/20/25 |
 | 3 | MySQL | Intermediate | School + Self-Learn | 10/31/25 |
-| 4 | Pandas+NumPy+Matplotlib | Beginner - Intermediate | School + Self-Learn | 10/26/25 |
-| 5 | PHP+HMTL+CSS+JS | Beginner | School + Self-Learn | 11/18/25 |
+| 4 | Pandas+NumPy+Matplotlib | High Beginner | School + Self-Learn | 11/20/25 |
+| 5 | PHP+HMTL | Beginner | Self-Learn | 11/20/25 |
 
 ## 📁 Repository Folder Structure
 <pre>
