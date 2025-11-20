@@ -1,3 +1,5 @@
+// aided by chat starting the generic function
+
 sealed class SmartDevice (  // inheritance class where this is the parent the rest are children
     var name: String,
     var isEnabled: Boolean = false
