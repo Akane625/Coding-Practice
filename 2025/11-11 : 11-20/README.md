@@ -4,7 +4,7 @@ These prompts were made through DeepSeek. The goal of this is to furthur practic
 
 *Note: The exercises for this week has been cut to half due to a busy schedule. It wont happen in the future anymore (Edited: 11/20/25)*
 
-THIS TASKS WAS NOT COMPLETED IN THE TIME LIMIT
+***THIS TASKS WAS NOT COMPLETED IN THE TIME LIMIT***
 
 ## Legend
 | Symbol | Meaning | Comment |
