@@ -2,7 +2,7 @@
 
 These prompts were made through DeepSeek. The goal of this is to furthur practice OOP as by the looks of it, the basic syntax is taken care of.
 
-*Note:* The exercises for this week has been cut to half due to a busy schedule. It wont happen in the future anymore *(Edited: 11/20/25)*
+*Note: The exercises for this week has been cut to half due to a busy schedule. It wont happen in the future anymore (Edited: 11/20/25)*
 
 ## Legend
 | Symbol | Meaning | Comment |
