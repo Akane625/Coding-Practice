@@ -37,4 +37,4 @@ email format check) and display a confirmation message showing the submitted dat
 
 ## 🧩 LeetCode
 6. **[Two Sums](https://leetcode.com/problems/two-sum/description/)** ❌
-- Using Python and Kotlin solve the problem
+- Using Python, Kotlin, PHP solve the problem
