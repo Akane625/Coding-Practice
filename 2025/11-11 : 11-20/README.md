@@ -16,7 +16,7 @@ These prompts were made through DeepSeek. The goal of this is to furthur practic
 - Create a BankAccount class with private attributes for account number, holder name, and balance. Implement methods for: deposit(amount), withdraw(amount) (should prevent overdrafts), get_balance() (returns formatted balance), transfer(amount, target_account). Add a class variable to track the total number of accounts created. Create multiple accounts and demonstrate deposits, withdrawals, and transfers between accounts.
 
 ## 🟣 Kotlin
-3. **Intermediate: Smart Home System with Sealed Classes** ❌
+3. **Intermediate: Smart Home System with Sealed Classes** 🚧
 - Create a sealed class SmartDevice with properties name and isEnabled. Create subclasses: Light (adds brightnessLevel), Thermostat (adds currentTemperature, targetTemperature), SecurityCamera (adds isRecording), Each subclass should have methods turnOn() and turnOff() that update the device state. Create a SmartHome class that manages a list of SmartDevice objects and can: Turn all devices on/off, Find devices by type, Get devices that are currently on
 
 ## 🗄️ MySQL
