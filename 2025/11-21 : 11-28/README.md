@@ -16,7 +16,7 @@ calculates total sales per product, and outputs the top 5 best-selling products.
 Use functions, list/dictionary comprehensions, and exception handling effectively.
 
 ## 🟣 Kotlin
-2. Simple Quiz App ❌
+2. Simple Quiz App 🚧
 - Create a Kotlin program that runs a multiple-choice quiz. Define at least 5 questions, each with 4 options and one correct answer.
 The program should ask the user each question, take input for their choice, and display the final score at the end. Use classes to model questions and functions for quiz logic.
 
