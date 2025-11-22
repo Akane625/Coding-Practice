@@ -6,7 +6,7 @@ Prompts are made by ChatGPT and one from LeetCode.
 | Symbol | Meaning | Comment |
 |--------|---------|---------|
 | ✅ | Accomplished | Able to create a good code by myself |
-| 🚧 | Accomplished But... | Created the code but can be further improved |
+| 🚧 | Accomplished But... | Created the code but AI aided |
 | ❌ | Not Completed | Not able to create a code within the deadline |
 
 ## 🐍 Python
