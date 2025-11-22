@@ -1,6 +1,6 @@
 # 📅 November 21, 2025 to November 28, 2025
 
-Prompts are made by ChatGPT and one from LeetCode. The slump kicked in and workload killed productivity on this set of practice.
+Prompts are made by ChatGPT and one from LeetCode. The slump kicked in and workload killed productivity on this set of practice so I just cut the practice this week again.
 
 ## Legend
 | Symbol | Meaning | Comment |
