@@ -16,5 +16,5 @@ calculates total sales per product, and outputs the top 5 best-selling products.
 Use functions, list/dictionary comprehensions, and exception handling effectively.
 
 ## 🧩 LeetCode
-2. **[Two Sums](https://leetcode.com/problems/two-sum/description/)** ❌
+2. **[Two Sums](https://leetcode.com/problems/two-sum/description/)** ✅
 - Using Python, Kotlin, PHP solve the problem
