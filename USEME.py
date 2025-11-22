@@ -1,4 +1,4 @@
-# Use this code to choose what to do (this is better for less stress)
+# Use this code to choose what to do (this is better for less stress than coding all)
 import random
 
 languages = ["Python", "Kotlin", "SQL", "Pandas+NumPy+Matplotlib", "PHP+HTML"]
